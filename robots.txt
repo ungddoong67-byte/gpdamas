@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://종로구퀵서비스.퀵배송1661-4262.kr/sitemap.xml
+Sitemap: https://가평다마스퀵.퀵배송1661-4262.kr/sitemap.xml
